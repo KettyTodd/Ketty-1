@@ -10,13 +10,11 @@
 /test/version_tmp/
 /tmp/
 
-# Used by dotenv library to load environment variables.
 # .env
 
 # Ignore Byebug command history file.
 .byebug_history
 
-## Specific to RubyMotion:
 .dat*
 .repl_history
 build/
@@ -32,7 +30,6 @@ build-iPhoneSimulator/
 #
 # vendor/Pods/
 
-## Documentation cache and generated files:
 /.yardoc/
 /_yardoc/
 /doc/
